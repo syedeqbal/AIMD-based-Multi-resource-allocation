@@ -5,6 +5,6 @@ Distributed resource allocation arises in many application domains, such as smar
 We formulate the resource allocations problem over finite window sizes and model the system as a homogeneous Markov chain with place-dependent probabilities. We show that the time-averaged allocations over the finite window size converge to a unique invariant measure. We also show that the ergodic property holds for the model.
 
 ## Citation
-S. E. Alam and D. Shukla, "Existence of a Unique Invariant Measure and Ergodic Property in AIMD-based Multi-resource Allocation," 2023 American Control Conference (ACC), San Diego, CA, USA, 2023, pp. 2592-2598, doi: 10.23919/ACC55779.2023.10155852.
+S. E. Alam and D. Shukla, "Existence of a Unique Invariant Measure and Ergodic Property in AIMD-based Multi-resource Allocation," 2023 American Control Conference (ACC), San Diego, CA, USA, 2023, pp. 2592-2598, doi: 10.23919/ACC55779.2023.10155852, https://ieeexplore.ieee.org/document/10155852.
 
 
